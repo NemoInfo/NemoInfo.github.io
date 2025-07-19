@@ -1,3 +1,3 @@
 # Hello Sailor!
--[ ] Yes
--[x] No
+- [ ] Yes
+- [x] No
